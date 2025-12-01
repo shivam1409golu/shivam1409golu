@@ -52,7 +52,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan9601&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam1409golu&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 <!--<p align="center">
@@ -60,7 +60,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviranjan9601&layout=compact&theme=react" />
 </p>-->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raviranjan9601&show_icons=true&theme=radical&border_radius=20" /><br>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam1409golu&show_icons=true&theme=radical&border_radius=20" /><br>
   
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviranjan9601&layout=compact&theme=radical&border_radius=20" />
 </p>
