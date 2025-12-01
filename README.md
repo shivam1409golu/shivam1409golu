@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar Ishwar</h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20👋,%20I'm%20Shivam%20Kumar%20Ishwar&fontSize=50&color=00f7ff&fontColor=ffffff&animation=twinkling" />
